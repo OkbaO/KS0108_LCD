@@ -20,7 +20,7 @@
  **********************************************************************************/
 
 #include <Adafruit_GFX.h>   // include adafruit GFX library
-#include "KS0108_GLCD.h"    // include KS0108 GLCD library
+#include <KS0108_GLCD.h>    // include KS0108 GLCD library
 
 
 // KS0108 GLCD library initialization according to the following connection:
